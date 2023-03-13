@@ -1,6 +1,6 @@
-a = float(input("Digite a altura do triângulo: "))
-b = float(input("Digite a base do triângulo: "))
+Curso UDEMY, terminar ele e pegar o certificado
 
-area = (b * a) / 2
+# Ask
 
-print("A área do triângulo é:", area)
+- perguntar ao clayton se certificados contam como horas complementares;;
+- 
