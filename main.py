@@ -17,5 +17,3 @@ print(log(2, 8))
 print(log(3, 81))
 print(log(1, 5))
 print(log(-2, 10))
-
-# importar pro git, quero brincar mais
